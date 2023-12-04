@@ -1,2 +1,4 @@
 # linkedin-scrape
-Created by Bret Feig
+Created by Bret
+
+ preliminary proof of concept
