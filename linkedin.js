@@ -1,4 +1,4 @@
-/* Generate a script to perform web scraping tasks in JavaScript: Bret Feig at Talent42, Jun 2023
+/* Generate a script to perform web scraping tasks in JavaScript at Talent42, Jun 2023
 Got chatgot to create a script that scrapes LinkedIn searches with the same accuracy as IDS (before they blocked it). took several iterations.   Now I'm trying to get GPT to reverse engineer the prompt that would result in the working script.
 Apparently, the prompt needed is just as long and technical as the actual script.. 
 1. Smoothly scroll the page down until no new elements are loaded.
